@@ -15,7 +15,7 @@
 
 ### 🎓Currently Learning
 - More of Web and a little bit of React JS
-- Python
+- Python, ML and AI
 - Software architecture best practices
 
 
